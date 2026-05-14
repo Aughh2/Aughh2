@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Anatolii, a game developer from Helsinki, Finland.
+I am Anatolii, a software engineer from Helsinki, Finland.
 
 Interested in **game architecture and backend development**, with strong focus on **multiplayer systems**. 
 Learning by building projects, experimenting, and improving gameplay and backend systems.
